@@ -1,2 +1,2 @@
 # PINN-for-Heat-Transfer
-Exploring Heat Transfer Simulations using Physics-informed neural networks
+Exploring & Learning about Physics-informed neural networks
