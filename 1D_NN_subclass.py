@@ -68,7 +68,6 @@ class PINN(keras.Model):
         optimizer = tf.keras.optimizers.SGD(learning_rate=0.03)
         loss_value, grads = self.grad()
 
-        
         return loss_value, grads
 
 conduction_model = PINN()
